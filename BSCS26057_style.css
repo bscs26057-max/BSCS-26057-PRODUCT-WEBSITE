@@ -1,0 +1,92 @@
+ .image-container {
+    position : relative;
+}
+
+.text{
+    position: absolute;
+    bottom: 30%;
+    left: 30%;
+    font-size: 110px;
+    color: #fdfdfd88;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.home-img {
+    position: relative;
+}
+
+.home-text {
+    position : absolute;
+    bottom: 29%;
+    left: 38%;
+    font-size: 19px;
+    color: #9fa5a7fe;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.products-img {
+    margin-bottom: 30px;
+    background-color: lightgray;
+    border: 5px solid black;
+    padding: 20px;
+}
+
+.home-text a {
+    background-color: rgb(97, 93, 93);
+    color: rgb(153, 142, 142);
+    padding: 10px 20px;
+    text-decoration: dotted;
+}
+
+.contact-box {
+    background-color: darkgray;
+    padding: 30px;
+    margin: 40px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.social-media {
+    text-align: center;
+    margin: 40px;
+    padding: 20px;
+}
+
+.social-media a {
+    background-color: darkgrey;
+    color: black;
+    padding: 10px 20px;
+    margin: 5px;
+}
+
+.nav {
+    background-color: darkgray;
+    padding: 10px;
+}
+
+.nav a {
+    color: #000;
+    padding: 10px;
+}
+
+.nav a:hover {
+    background-color: black;
+    color: white;
+}
+
+body {
+    background-color: dimgray;
+}
+
+button {
+    padding: 8px 15px;
+    cursor: pointer;
+}
+
+.stock {
+    font-weight: bold;
+}
+
+form input {
+    padding: 7px;
+}
